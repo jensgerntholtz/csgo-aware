@@ -4,7 +4,7 @@ A game state integration test for cs:go. Using a node js server listening for PO
 
 # Setup
 
-Client computer needs a cfg file in the, CS:GO installtion directory, with the appropriate parameters to work.
+Client computer needs a cfg file, in the CS:GO installtion directory, with the appropriate parameters to work.
 
 [gamestate_integration_consolesample.cfg](https://github.com/jensgerntholtz/csgo-aware/blob/develop/gamestate_integration_consolesample.cfg)
 
