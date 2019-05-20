@@ -14,7 +14,7 @@ The next time the game launches it will detect the change.
 
 # Running the Endpoint
 
-In the root directory of this repo run `node mysample.js`
+In the root directory of this repo run `node mysample.js [port of your arduino]`
 
 for reference here is a list of game state integrations
 
