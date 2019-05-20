@@ -4,11 +4,11 @@ A game state integration test for cs:go. Using a node js server listening for PO
 
 # Setup
 
-Client computer needs a cfg file with the appropriate parameters to work.
+Client computer needs a cfg file in the, CS:GO installtion directory, with the appropriate parameters to work.
 
 [gamestate_integration_consolesample.cfg](https://www.google.com)
 
-cfg should be placed under Counter-Strike `Global Offensive\csgo\cfg`
+cfg should be placed under Counter-Strike `[PATH TO INSTALLTION]\Global Offensive\csgo\cfg`
 
 The next time the game launches it will detect the change.
 
