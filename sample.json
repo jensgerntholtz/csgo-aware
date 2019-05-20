@@ -1,0 +1,91 @@
+{
+	"provider": {
+		"name": "Counter-Strike: Global Offensive",
+		"appid": 730,
+		"version": 13696,
+		"steamid": "[YOUR STEAMID]",
+		"timestamp": 1558166458
+	},
+	"map": {
+		"mode": "casual",
+		"name": "de_mirage",
+		"phase": "live",
+		"round": 13,
+		"team_ct": {
+			"score": 7,
+			"consecutive_round_losses": 3,
+			"timeouts_remaining": 1,
+			"matches_won_this_series": 0
+		},
+		"team_t": {
+			"score": 6,
+			"consecutive_round_losses": 0,
+			"timeouts_remaining": 1,
+			"matches_won_this_series": 0
+		},
+		"num_matches_to_win_series": 0,
+		"current_spectators": 0,
+		"souvenirs_total": 0
+	},
+	"round": {
+		"phase": "live"
+	},
+	"player": {
+		"steamid": "[YOUR STEAMID]",
+		"name": "[YOUR STEAM DISPLAY NAME]",
+		"observer_slot": 6,
+		"team": "T",
+		"activity": "playing",
+		"state": {
+			"health": 100,
+			"armor": 100,
+			"helmet": true,
+			"flashed": 0,
+			"smoked": 0,
+			"burning": 0,
+			"money": 10000,
+			"round_kills": 0,
+			"round_killhs": 0,
+			"equip_value": 1200
+		},
+		"weapons": {
+			"weapon_0": {
+				"name": "weapon_knife_t",
+				"paintkit": "default",
+				"type": "Knife",
+				"state": "holstered"
+			},
+			"weapon_1": {
+				"name": "weapon_glock",
+				"paintkit": "aa_vertigo_blue",
+				"type": "Pistol",
+				"ammo_clip": 20,
+				"ammo_clip_max": 20,
+				"ammo_reserve": 120,
+				"state": "active"
+			}
+		},
+		"match_stats": {
+			"kills": 0,
+			"assists": 0,
+			"deaths": 8,
+			"mvps": 0,
+			"score": 1
+		}
+	},
+	"previously": {
+		"player": {
+			"weapons": {
+				"weapon_1": {
+					"state": "holstered"
+				},
+				"weapon_2": {
+					"name": "weapon_c4",
+					"paintkit": "default",
+					"type": "C4",
+					"state": "active"
+				}
+			}
+		}
+	}
+}
