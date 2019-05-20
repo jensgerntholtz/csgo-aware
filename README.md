@@ -12,7 +12,7 @@ cfg should be placed under Counter-Strike `Global Offensive\csgo\cfg`
 
 The next time the game launches it will detect the change.
 
-# Runing the Endpoint
+# Running the Endpoint
 
 In the root directory of this repo run `node mysample.js`
 
