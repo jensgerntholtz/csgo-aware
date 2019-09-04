@@ -1,6 +1,7 @@
 # CSGO Aware
 
-A game state integration test for cs:go. Using a node js server listening for POST requests from the game.
+A game state integration test for cs:go. Using a node js server listening for POST requests from the game. Which then sends appropriate data over usb serial.
+The arduino code responds to these signals and lights up an array of leds using the neopixel library.
 
 # Setup
 
