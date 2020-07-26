@@ -3,7 +3,7 @@
 A game state integration test for cs:go. Using a node js server listening for POST requests from the game. Which then sends appropriate data over usb serial.
 The arduino code responds to these signals and lights up an array of leds using the neopixel library.
 
-# Setup
+## Setup
 
 Client computer needs a cfg file, in the CS:GO installtion directory, with the appropriate parameters to work.
 
@@ -13,7 +13,7 @@ cfg should be placed under Counter-Strike `[PATH TO INSTALLTION]\Global Offensiv
 
 The next time the game launches it will detect the change.
 
-# Running the Endpoint
+## Running the Endpoint
 
 In the root directory of this repo run `node mysample.js [port of your arduino]`
 
